@@ -1,20 +1,20 @@
 {
 
-  "name": "TK - TorToolKit",
+  "name": "TK",
 
-  "description": "A Telegram Bot that leeches magnet/torrent links/files from the interent. YT-DL supported for downloading youtube videos. Supports uploading to different cloud providers. ",
+  "description": "A Telegram Bot",
 
   "keywords": [
 
-    "telegram","bot","torrent","leech"
+    "t","b","to","l"
 
   ],
 
-  "repository": "https://github.com/reaitten/tgtk",
+  "repository": "https://github.com",
 
-  "success_url": "https://github.com/reaitten/tgtk",
+  "success_url": "https://github.com",
 
-  "website": "https://github.com/reaitten/tgtk",
+  "website": "https://github.com",
 
   "env": {
 
